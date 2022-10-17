@@ -1,0 +1,44 @@
+.Home, .Chat-app{
+    display: block;height: 70%;width: 70%;
+
+}
+input[type=text]{
+	width: 100%;
+	padding: 7px;
+	margin: 5px 0 10px 0;
+	border: none;
+	background: #ddd;
+    color: #000;
+}
+
+input[type=text]:focus {
+	background-color: white;
+	outline: none;
+    color: #000;
+}
+
+button, input[type=submit]{
+	
+	padding: 10px 15px;
+	border: none;
+	cursor: pointer;
+    border-radius: 5%;
+	width:100%;
+	opacity: 0.9;
+    background-color: #ee6103f8;
+	color: rgb(0, 0, 0);
+
+}
+ *{
+    box-sizing: border-box;
+    color: #000;
+    
+ }
+
+ body, html {
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 0;
+}
+
+
