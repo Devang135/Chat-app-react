@@ -19,6 +19,23 @@ Nodemon 2.0+
 Socket.io 4.5+  
 Concurrently 7.5+
 
+For running React Server 
+
+@ant-design/icons": "^4.7.0",  
+@testing-library/jest-dom": "^5.16.5",  
+@testing-library/react": "^13.4.0",  
+@testing-library/user-event": "^13.5.0",  
+node-sass": "^7.0.3",  
+query-string": "^7.0.1",   
+react": "^18.2.0",  
+react-dom": "^18.2.0",  
+react-router": "^5.2.1",  
+react-router-dom": "^5.3.0",  
+react-scripts": "5.0.1",  
+socket.io-client": "^4.3.2",  
+web-vitals": "^2.1.4"  
+
+
 ###  Steps to Run
 
 To install Server dependencies:
